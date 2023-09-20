@@ -27,6 +27,6 @@ Clone this repository or download the ZIP file and extract it.
 Import the project into Eclipse or any other Java IDE.
 Mail me for  blogging_website_db.sql file.
 Build and run the project on Apache Tomcat.
-
+![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss1.jpg) 
 Contributors
 Asif Sayyed (asifsayyed0502@gmail.com)
