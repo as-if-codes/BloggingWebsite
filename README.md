@@ -28,12 +28,13 @@ Import the project into Eclipse or any other Java IDE.
 Mail me for  blogging_website_db.sql file.
 Build and run the project on Apache Tomcat.
 
-Home Page
+Sample Screenshots 
 ![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss1.jpg) 
 ![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss2.jpg) 
 ![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss3.jpg) 
 ![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss4.jpg) 
 ![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss5.jpg) 
+![Home Page](https://github.com/as-if-codes/BloggingWebsite/blob/main/src/ss/ss6.jpg) 
 Contributors
 Asif Sayyed (asifsayyed0502@gmail.com)
 Email for help.
